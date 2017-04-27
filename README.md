@@ -1,4 +1,4 @@
-# HDI-project (Dyanmic Data Vizualition Project)
+# HDI-project (Dyanmic Data Visualisation Project)
 ### [R code](https://github.com/mezud/HDI-project/blob/master/mezbah-final-project-me8135.R)
 ### HDI as a performance measure for countries: Cross Country and Regional Explorations
 * [paper](https://github.com/mezud/HDI-project/blob/master/final-report-mezbah-me8135.pdf)
